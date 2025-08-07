@@ -1,0 +1,105 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>M&A CLEAM - Limpeza e Higienização</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f8f9fa;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+    header {
+      background-color: #007bff;
+      color: white;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    h1 {
+      margin: 0;
+      font-size: 2.5em;
+    }
+    p {
+      font-size: 1.2em;
+    }
+    section {
+      padding: 30px 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+    .services {
+      margin-top: 20px;
+      padding: 15px;
+      background-color: #e9ecef;
+      border-radius: 10px;
+    }
+    .services ul {
+      list-style-type: none;
+      padding-left: 0;
+    }
+    .services li {
+      padding: 10px 0;
+    }
+    .cta-button {
+      display: block;
+      width: fit-content;
+      margin: 30px auto;
+      padding: 15px 30px;
+      background-color: #28a745;
+      color: white;
+      font-size: 1.2em;
+      border: none;
+      border-radius: 8px;
+      text-decoration: none;
+      transition: background-color 0.3s;
+    }
+    .cta-button:hover {
+      background-color: #218838;
+    }
+    footer {
+      background-color: #343a40;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>M&A CLEAM</h1>
+  <p>Limpeza e Higienização Profissional de Estofos, Sofás, Tapetes, Residências e Condomínios</p>
+</header>
+
+<section>
+  <h2>Bem-vindo!</h2>
+  <p>Na M&A CLEAM, oferecemos soluções completas para deixar o seu espaço mais limpo, seguro e confortável. Nossa equipe é especializada em higienização profunda de estofos, além de realizar limpeza residencial e manutenção de condomínios com excelência.</p>
+
+  <div class="services">
+    <h3>Nossos Serviços:</h3>
+    <ul>
+      <li>✅ Higienização de sofás, colchões e poltronas</li>
+      <li>✅ Lavagem de tapetes e carpetes</li>
+      <li>✅ Limpeza residencial completa</li>
+      <li>✅ Manutenção e limpeza de condomínios</li>
+      <li>✅ Eliminação de ácaros, fungos e odores</li>
+    </ul>
+  </div>
+
+  <a href="https://wa.me/SEUNUMERO?text=Olá%2C%20gostaria%20de%20agendar%20um%20serviço%20com%20a%20M%26A%20CLEAM" target="_blank" class="cta-button">
+    📅 Agendar um Serviço
+  </a>
+</section>
+
+<footer>
+  <p>📍 Atendemos: [Sua Cidade ou Região] | 📱 WhatsApp: [Seu Número] | 📧 [Seu E-mail]</p>
+  <p>Siga-nos: @macleam</p>
+</footer>
+
+</body>
+</html>
